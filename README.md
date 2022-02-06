@@ -1,8 +1,12 @@
 
 
 
+https://user-images.githubusercontent.com/85789202/152681365-fceb893d-80e4-4a4f-b101-3b05e019138f.mp4
 
-https://user-images.githubusercontent.com/85789202/152676376-5998e293-ff74-4d41-8ed6-f2d59e83e8a0.mp4
+
+
+
+
 
 
 
@@ -34,12 +38,6 @@ Compiles and hot-reloads for development
      or
     yarn start
     
-or
-If you want to run along with your Json Server
-
-    npm run dev
-     or
-    yarn run dev
 
 
 Open http://localhost:3000 to view it in the browser.
